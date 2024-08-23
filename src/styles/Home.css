@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #032C24;
+}
+
+.main-about{
+    background-color: white;
+}
+
+.custom-btn{
+    color: white;
+    background-color: #174B00;
+    border-radius: 30px;
+}
+
+.txt-discover{
+    color: #174B00;
+}
+
+.txt-explore{
+    color:#2D340C;
+}
+
+.txt-key{
+    color: #5D781A;
+}
+
+.custom-btn:hover{
+    color: rgb(175, 175, 175);
+}

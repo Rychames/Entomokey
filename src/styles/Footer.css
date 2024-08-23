@@ -1,0 +1,13 @@
+.footer{
+    background-color: #292727;
+}
+
+.text{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+}
+
+.text:hover{
+    color: #989898;
+}
+ 

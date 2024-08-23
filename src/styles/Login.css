@@ -1,0 +1,8 @@
+
+
+.img-thumbnail{
+    width: 50px; /* Defina o tamanho desejado para a imagem */
+    height: 50px; /* Defina o tamanho desejado para a imagem */
+    border-radius: 50%; /* Torna a imagem redonda */
+    object-fit: cover; /* Garante que a imagem se ajuste ao contêiner sem distorção */
+}
